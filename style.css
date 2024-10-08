@@ -1,3 +1,20 @@
 #box{
     background-color: blueviolet;
 }
+ .heading{
+    color: aquamarine;
+
+ }
+ h1{
+    text-align: center;
+    text-decoration:red underline;
+ }
+ p{
+    text-align: start;
+ }
+ /* body{
+    background-color: blueviolet;
+ } */
+  a{
+    text-decoration: none;
+  }
